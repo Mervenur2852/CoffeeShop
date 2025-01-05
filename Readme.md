@@ -1,4 +1,4 @@
-# CoffeeShop
+# CoffeeShop-Project
 An construction website has been designed in this repository using HTML, CSS, Js.
 
 # Features
